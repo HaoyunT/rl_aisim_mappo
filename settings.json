@@ -1,0 +1,38 @@
+{
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+  "ClockSpeed": 1,
+  "ViewMode": "SpringArmChase",
+  "CameraDefaults": {
+    "CaptureSettings": [
+      {
+        "ImageType": 0,
+        "Width": 1920,
+        "Height": 1080,
+        "FOV_Degrees": 90
+      }
+    ]
+  },
+  "Vehicles": {
+    "Drone0": {
+      "VehicleType": "SimpleFlight",
+      "X": 0, "Y": 0, "Z": -2,
+      "Yaw": 0
+    },
+    "Drone1": {
+      "VehicleType": "SimpleFlight",
+      "X": 10, "Y": 0, "Z": -2,
+      "Yaw": 0
+    },
+    "Drone2": {
+      "VehicleType": "SimpleFlight",
+      "X": -5, "Y": 8.66, "Z": -2,
+      "Yaw": 0
+    },
+    "Drone3": {
+      "VehicleType": "SimpleFlight",
+      "X": -5, "Y": -8.66, "Z": -2,
+      "Yaw": 0
+    }
+  }
+}
