@@ -493,6 +493,8 @@ python test_model.py
 
 以下为在 Unreal Engine 4 环境中训练的动态展示：
 
+![1763381559147](image/README/1763381559147.gif)
+
 #### 阶段成功率
 
 - **Stage 4**：
