@@ -495,6 +495,8 @@ python test_model.py
 
 ![1763381559147](image/README/1763381559147.gif)
 
+![1763381603102](image/README/1763381603102.gif)
+
 #### 阶段成功率
 
 - **Stage 4**：
