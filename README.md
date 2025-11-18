@@ -508,10 +508,9 @@ python test_model.py
 
 #### UE4 实景训练动态展示
 
-以下为在 Unreal Engine 4 环境中训练的动态展示：
+以下为在 Unreal Engine 4 环境中训练的动态展示(完整展示可查看image\)README中的mp4文件)：
 
-
-
+![1763448799404](image/README/1763448799404.gif)
 
 #### 阶段成功率
 
